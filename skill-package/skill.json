@@ -24,7 +24,8 @@
             "hey",
             "I need help",
             "I need more help",
-            "I don't"
+            "I don't",
+            "Hei verden"
           ],
           "keywords": [],
           "name": "NoriginTV",
@@ -34,6 +35,4 @@
       "testingInstructions": "Sample Testing Instructions."
     }
   }
-
 }
-
