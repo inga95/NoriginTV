@@ -20,7 +20,8 @@
           "examplePhrases": [
             "Alexa open hello world",
             "hello",
-            "help"
+            "help",
+            "hey"
           ],
           "keywords": [],
           "name": "NoriginTV",
