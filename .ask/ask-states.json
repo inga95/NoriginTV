@@ -1,17 +1,10 @@
 {
-  "askToolkitStatesVersion": "2020-04-15",
+  "askcliStatesVersion": "2020-03-31",
   "profiles": {
-    "Inga Brandsnes": {
+    "default": {
       "skillId": "amzn1.ask.skill.6fb99251-60b2-41fb-a59b-a70b7fefbc70",
       "skillMetadata": {
-        "eTag": "69180da04426625cf7db64355c8d96d6",
-        "lastDeployHash": "vDij15M0ULVZwAwcAJJ5AksjKlE="
-      }
-    },
-    "default": {
-      "skillId": "amzn1.ask.skill.96702bcd-c65f-40b2-9c14-9eb57a8813c6",
-      "skillMetadata": {
-        "lastDeployHash": "07Z9jFXXhc8uTt/umIygkJ3TLyA="
+        "lastDeployHash": "63aZSHuijgFi3FPHXR7p1Ae7Utk="
       }
     }
   }
