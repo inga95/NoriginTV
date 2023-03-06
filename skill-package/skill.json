@@ -19,13 +19,7 @@
           "description": "Sample Full Description",
           "examplePhrases": [
             "Alexa open hello world",
-            "hello hello",
-            "help",
-            "hey",
-            "I need help",
-            "I need more help",
-            "I don't",
-            "Hei verden"
+            "hello hello"
           ],
           "keywords": [],
           "name": "NoriginTV",
