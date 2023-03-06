@@ -7,6 +7,12 @@
         "eTag": "69180da04426625cf7db64355c8d96d6",
         "lastDeployHash": "vDij15M0ULVZwAwcAJJ5AksjKlE="
       }
+    },
+    "default": {
+      "skillId": "amzn1.ask.skill.96702bcd-c65f-40b2-9c14-9eb57a8813c6",
+      "skillMetadata": {
+        "lastDeployHash": "kG+gRarfkcMQBfHtr3kBT4SFWpI="
+      }
     }
   }
 }
