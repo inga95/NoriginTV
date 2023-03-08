@@ -23,8 +23,7 @@
             "how are you",
             "Tester slett",
             "Tester paal",
-            "Hello Oslo",
-            "Hello world"
+            "Hello Oslo"
           ]
         },
         {
@@ -39,5 +38,5 @@
       "types": []
     }
   },
-  "version": "2"
+  "version": "13"
 }
