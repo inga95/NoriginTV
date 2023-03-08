@@ -7,11 +7,11 @@ const LaunchRequestHandler = {
     return handlerInput.requestEnvelope.request.type === "LaunchRequest";
   },
   handle(handlerInput) {
-    const speechText = "Snart mat.   ";
+    const speechText = "Hey World!";
 
     // Speak out the speechText via Alexa
     return handlerInput.responseBuilder.speak(speechText).getResponse();
-  }
+  },
 };
 
 // Register the handlers and make them ready for use in Lambda
