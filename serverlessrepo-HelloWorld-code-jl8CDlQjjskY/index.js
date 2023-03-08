@@ -7,7 +7,7 @@ const LaunchRequestHandler = {
     return handlerInput.requestEnvelope.request.type === "LaunchRequest";
   },
   handle(handlerInput) {
-    const speechText = "Hey World!";
+    const speechText = "Halla Verden!!";
 
     // Speak out the speechText via Alexa
     return handlerInput.responseBuilder.speak(speechText).getResponse();
