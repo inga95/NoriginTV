@@ -18,13 +18,7 @@
         {
           "name": "HelloWorldIntent",
           "slots": [],
-          "samples": [
-            "hello",
-            "how are you",
-            "Tester slett",
-            "Tester paal",
-            "Hello Oslo"
-          ]
+          "samples": ["hi", "hey", "hello", "how are you", "Hello world"]
         },
         {
           "name": "AMAZON.NavigateHomeIntent",
@@ -33,10 +27,113 @@
         {
           "name": "AMAZON.FallbackIntent",
           "samples": []
+        },
+        {
+          "name": "MovieRecommendationIntent",
+          "slots": [],
+          "samples": [
+            "which movie is great to watch",
+            "movie recommendation",
+            "what movie can you recommend",
+            "recommend movie",
+            "can you recommend me a movie"
+          ]
+        },
+        {
+          "name": "MovieByGenreIntent",
+          "slots": [
+            {
+              "name": "genre",
+              "type": "genre"
+            }
+          ],
+          "samples": [
+            "i want to watch a {genre} movie",
+            "recommend me a {genre} movie please",
+            "movie {genre}",
+            "{genre} movie",
+            "can you recommend me a {genre} movie"
+          ]
         }
       ],
-      "types": []
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "family"
+              }
+            },
+            {
+              "name": {
+                "value": "crime"
+              }
+            },
+            {
+              "name": {
+                "value": "animation"
+              }
+            },
+            {
+              "name": {
+                "value": "biography"
+              }
+            },
+            {
+              "name": {
+                "value": "documentar"
+              }
+            },
+            {
+              "name": {
+                "value": "thriller"
+              }
+            },
+            {
+              "name": {
+                "value": "romance"
+              }
+            },
+            {
+              "name": {
+                "value": "mystery"
+              }
+            },
+            {
+              "name": {
+                "value": "drama"
+              }
+            },
+            {
+              "name": {
+                "value": "horror"
+              }
+            },
+            {
+              "name": {
+                "value": "music"
+              }
+            },
+            {
+              "name": {
+                "value": "fantasy"
+              }
+            },
+            {
+              "name": {
+                "value": "comedy"
+              }
+            },
+            {
+              "name": {
+                "value": "action"
+              }
+            }
+          ],
+          "name": "genre"
+        }
+      ]
     }
   },
-  "version": "13"
+  "version": "25"
 }

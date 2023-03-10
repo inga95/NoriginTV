@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Uncharted",
+    "genre": "adventure",
+    "description": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor Sully Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
+    "imdb": 6.3
+  },
+  {
+    "id": 2,
+    "title": "Ambulance",
+    "genre": "action",
+    "description": "two robbers who steals an ambulance after their heist goes awry.",
+    "imdb": 6.1
+  },
+  {
+    "id": 3,
+    "title": "Dog",
+    "genre": "comedy",
+    "description": "Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs and Lulu race down the Pacific Coast to get to a fellow soldier's funeral on time.",
+    "imdb": 6.5
+  },
+  {
+    "id": 4,
+    "title": "Black Adam",
+    "genre": "action",
+    "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+    "imdb": 6.3
+  },
+  {
+    "id": 5,
+    "title": "Spiderman - No way home",
+    "genre": "fantasy",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "imdb": 8.2
+  },
+  {
+    "id": 6,
+    "title": "Elvis",
+    "genre": "music",
+    "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+    "imdb": 7.3
+  },
+  {
+    "id": 7,
+    "title": "Bullet Train",
+    "genre": "action",
+    "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+    "imdb": 7.3
+  },
+  {
+    "id": 8,
+    "title": "Moonfall",
+    "genre": "science fiction",
+    "description": "A mysterious force knocks the moon from its orbit and sends it hurtling on a collision course toward earth.",
+    "imdb": 5.1
+  },
+  {
+    "id": 9,
+    "title": "Silent Night",
+    "genre": "drama",
+    "description": "Nell, Simon, and their son Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.",
+    "imdb": 5.7
+  },
+  {
+    "id": 10,
+    "title": "Everything Everywhere All at Once",
+    "genre": "action",
+    "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "imdb": 8.0
+  },
+  {
+    "id": 11,
+    "title": "Letters to Juliet",
+    "genre": "romance",
+    "description": "Sophie dreams of becoming a writer and travels to Verona, Italy where she meets the Secretaries of Juliet",
+    "imdb": 6.5
+  },
+  {
+    "id": 12,
+    "title": "The Shining",
+    "genre": "horror",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future",
+    "imdb": 8.4
+  },
+  {
+    "id": 13,
+    "title": "Gone Girl",
+    "genre": "thriller",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent",
+    "imdb": 8.1
+  }
+]
