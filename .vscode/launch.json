@@ -18,6 +18,111 @@
     {
       "type": "aws-sam",
       "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/serverlessrepo-HelloWorld-code-jl8CDlQjjskY",
+        "lambdaHandler": "index.handler"
+      },
+      "lambda": {
+        "runtime": "nodejs14.x",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
       "name": "serverlessrepo-Alexa-Node14-Template-code-OGg84ZpvocyS:index.handler (nodejs14.x)",
       "invokeTarget": {
         "target": "code",
