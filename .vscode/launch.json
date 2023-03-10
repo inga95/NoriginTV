@@ -1,6 +1,25 @@
 {
   "configurations": [
     {
+      "name": "Debug Alexa Skill (Node.js)",
+      "type": "pwa-node",
+      "request": "launch",
+      "program": "${command:ask.debugAdapterPath}",
+      "args": [
+        "--accessToken",
+        "${command:ask.accessToken}",
+        "--skillId",
+        "${command:ask.skillIdFromWorkspace}",
+        "--handlerName",
+        "handler",
+        "--skillEntryFile",
+        "${workspaceFolder}/lambda/index.js",
+        "--region",
+        "EU"
+      ],
+      "cwd": "${workspaceFolder}/lambda"
+    },
+    {
       "type": "aws-sam",
       "request": "direct-invoke",
       "name": "serverlessrepo-HelloWorld-code-jl8CDlQjjskY:index.handler (nodejs14.x)",
